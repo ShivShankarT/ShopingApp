@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "510478802301",
+    "firebase_url": "https://rashanlo-4b444.firebaseio.com",
+    "project_id": "rashanlo-4b444",
+    "storage_bucket": "rashanlo-4b444.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510478802301:android:c159d62a395795b48dc014",
+        "android_client_info": {
+          "package_name": "com.example.rashanlo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510478802301-24fftt16fpm55f6kf08r8aa7va3a0jv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd3JvuZLusV_-7Cm3D49J7VWhObQ2E5U8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510478802301-24fftt16fpm55f6kf08r8aa7va3a0jv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
